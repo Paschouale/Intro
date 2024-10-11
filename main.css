@@ -1,3 +1,26 @@
 h1 {
     background-color: red;
 }
+
+#green-text{
+    background-color: green;
+}
+
+#magenta-text1, #magenta-text2{
+    color: magenta;
+}
+
+.blue-text{
+    color: blue;
+}
+
+#btn{
+    border: yellow solid 2px; /* Εκτός από solid έχει και dashed, dotted */
+    border-radius: 50px; /* Στρογγυλεύει τις γωνίες */
+    padding: 10px;
+    margin: 20px;
+    background-color: navy;
+    color: white;
+    width: 150px;
+    text-align: center;
+}
